@@ -415,3 +415,149 @@
   color: #D9DBE1;
 }
 /* footer part end  */
+
+
+/* responsive  */
+
+@media (min-width:320px) and (max-width:575.99px){
+   h4{
+  font-size: 26px;
+  line-height: 44px;
+ }
+ p{
+  font-size: 12px;
+  line-height: 20px;
+  
+ }
+ .btn{
+  font-size: 12px;
+  padding: 10px 20px;
+ }
+.navbar{
+  padding: 15px 0;
+ }
+ .navbar ul{
+  gap: 5px;
+}
+.navbar .nav-link{
+   font-size: 12px;
+}
+.banner{
+  padding: 46px 0;
+ }
+ .banner .row{
+  row-gap: 64px;
+ }
+.banner .row h1{
+  font-size: 44px;
+  width: 100%;
+  line-height: 56px;
+ }
+.banner .row p{
+  padding: 12px 0 20px 0;
+  width: 100%;
+ }
+ .banner .row img{
+  width: 100%;
+  object-fit: cover;
+ }
+.client .logo-part{
+  flex-direction: column;
+  gap: 10px;
+}
+.community .top-text h4{
+  width: 100%;
+  line-height: 30px;
+}
+.community .cart-part{
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 25px;
+}
+.community .cart-part .card{
+  width: 100%;
+}
+.Pixelgrade{
+  padding: 32px 0 50px 0;
+}
+.Pixelgrade .part-section{
+  flex-direction: column;
+}
+.Pixelgrade .text-part h4{
+  width: 100%;
+}
+.Pixelgrade .text-part p{
+  margin: 16px 0 31px 0;
+  width: 100%;
+}
+.busniess .left h4{
+  width:100%;
+}
+
+.customer .main-div{
+  flex-direction: column;
+
+}
+.customer .main-div p{
+  width: 100%;
+}
+.customer .customer-logo{
+  flex-direction: column;
+  gap: 10px;
+}
+.marketing .text p{
+  width: 550px;
+  margin: 0 auto;
+  text-align: center;
+}
+.marketing .card-pard .image{
+  width: 100%;
+ 
+}
+.marketing .card-pard{
+  flex-direction: column;
+  gap: 144px;
+}
+.marketing .text p{
+  width: 100%;
+}
+.Pellentesque{
+  padding: 22px 0;
+}
+.Pellentesque h2{
+  font-size: 34px;
+  width: 100%;
+  line-height: 56px;
+}
+.footer .row{
+  row-gap: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
