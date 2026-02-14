@@ -420,6 +420,7 @@
 /* responsive  */
 
 @media (min-width:320px) and (max-width:575.99px){
+ 
    h4{
   font-size: 26px;
   line-height: 44px;
@@ -475,13 +476,16 @@
   margin-top: 25px;
 }
 .community .cart-part .card{
-  width: 100%;
+  width: 100% !important;
 }
 .Pixelgrade{
   padding: 32px 0 50px 0;
 }
 .Pixelgrade .part-section{
   flex-direction: column;
+}
+.Pixelgrade .part-section img{
+  width: 100%;
 }
 .Pixelgrade .text-part h4{
   width: 100%;
