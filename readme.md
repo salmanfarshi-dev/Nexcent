@@ -12,7 +12,7 @@ This project focuses on layout structure, spacing, and responsive design best pr
 
 ## 📸 Preview
 
-![Project Preview](images/preview.png)
+![Project Preview](images/preview.png.png)
 
 > ⚠️ Make sure you add a screenshot named **preview.png** inside the `images` folder.
 
