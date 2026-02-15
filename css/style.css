@@ -510,6 +510,10 @@
   flex-direction: column;
   gap: 10px;
 }
+.marketing .card-pard .sub-cart{
+    margin-left: 25px;
+
+}
 .marketing .text p{
   width: 550px;
   margin: 0 auto;
