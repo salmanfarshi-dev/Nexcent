@@ -10,12 +10,6 @@ This project focuses on layout structure, spacing, and responsive design best pr
 
 ---
 
-## 🌐 Live Demo
-
-🔗 Add your live link here (Netlify / Vercel / GitHub Pages)
-
----
-
 ## 📸 Preview
 
 ![Project Preview](images/preview.png)
@@ -64,7 +58,7 @@ This project was built for frontend practice and to improve responsive layout sk
 
 ## 👨‍💻 Author
 
-**Salman Farsi**  
+**Salman Farshi**  
 Frontend Developer | MERN Stack Learner  
 
 🔗 GitHub: https://github.com/salmanfarshi-dev
